@@ -1,0 +1,46 @@
+[
+  {
+    "tip_id": 1,
+    "url": "https://cdnweb01.wikitree.co.kr/webdata/editor/201910/17/img_20191017203726_0dd8be58.jpg",
+    "title": "모기 잡기 꿀팁",
+    "content": "칫솔을 여기 저기 뿌려보시면 모기가 zzzzd. 몰려올거에요 ...",
+    "tags": "모기",
+    "profile_image": "",
+    "author": "nbn0809",
+    "likes": 3,
+    "comments": 2
+  },
+  {
+    "tip_id": 2,
+    "url": "https://blog.kakaocdn.net/dn/baUDwm/btqBVfaN4ES/s8otCW1mrp0BFf9Q3IdOX0/img.jpg",
+    "title": "화장실 청소 꿀팁",
+    "content": "락스로 빡빡 ..",
+    "tags": "화장실",
+    "profile_image": "",
+    "author": "nbn0809",
+    "likes": 3,
+    "comments": 2
+  },
+  {
+    "data_id": 3,
+    "url": "https://cdnweb01.wikitree.co.kr/webdata/editor/201910/17/img_20191017203726_0dd8be58.jpg",
+    "title": "모기 잡기 꿀팁2",
+    "content": "칫솔을 여기 저기 뿌려보시면 모기가 zzzzd. 몰려올거에요 ...",
+    "tags": "모기",
+    "profile_image": "",
+    "author": "nbn0809",
+    "likes": 3,
+    "comments": 2
+  },
+  {
+    "data_id": 4,
+    "url": "https://blog.kakaocdn.net/dn/baUDwm/btqBVfaN4ES/s8otCW1mrp0BFf9Q3IdOX0/img.jpg",
+    "title": "화장실 청소 꿀팁2",
+    "content": "락스로 빡빡 ..",
+    "tags": "화장실",
+    "profile_image": "",
+    "author": "nbn0809",
+    "likes": 3,
+    "comments": 2
+  }
+]

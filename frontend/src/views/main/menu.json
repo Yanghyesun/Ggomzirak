@@ -1,0 +1,17 @@
+{
+    "tips" : {
+        "name" : "꿀팁모아",
+        "path" : "/tips",
+        "children" : []
+    },
+    "lives" : {
+        "name" : "라이브",
+        "path" : "/lives",
+        "children" : []
+    },
+    "qna" : {
+        "name" : "질문모아",
+        "path" : "/qna",
+        "children" : []
+    }
+}
